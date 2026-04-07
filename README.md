@@ -1,0 +1,1 @@
+If eveerythings goes to plan, this will be a skeleton of a java based website with hyperlinks available for multiple charities and information regarding the multiple branches of a theoretical company. this will have the [otential of actually being a viable website usable for donation services and information regarding each company or organization
