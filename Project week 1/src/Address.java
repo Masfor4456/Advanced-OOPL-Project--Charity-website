@@ -1,0 +1,17 @@
+/**
+ * Represents an address (used for composition)
+ */
+public class Address {
+
+    private String city;
+    private String state;
+
+    public Address(String city, String state) {
+        this.city = city;
+        this.state = state;
+    }
+
+    public void displayAddress() {
+        System.out.println("Location: " + city + ", " + state);
+    }
+}
